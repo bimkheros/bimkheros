@@ -20,7 +20,7 @@
 
 ## GOAL
 
-+ Finish the Data Engineering Analyst under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
++ Finish the Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
 + Develop an App to Monetize
 + Build a Data Science Portfolio
 + Invest on Crypto
