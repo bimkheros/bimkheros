@@ -8,12 +8,9 @@
 ## ABOUT ME
 
 
-+ Current Part-time work: `Search Engine Evaluator`
-
++ Current Part-time work: `Search Engine Evaluator` 
 + Currently learning: `Data Science`
-
 + Email: `bimkban14@gmail.com`
-
 + Fun fact: `I close my eyes when I sleep`
 
 <br />
@@ -22,7 +19,7 @@
 
 + Finish the Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
 + Develop an App to Monetize
-+ Build a Data Science Portfolio
++ Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)
 + ~~Invest on Crypto~~
 
 <br />
@@ -98,4 +95,6 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 ## Listening on Spotify:
   
 [![Spotify](https://spotify-github-integration.vercel.app/api/spotify)](https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr)
+    
+
   
