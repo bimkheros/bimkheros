@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%FFCC1D&size=22&center=true&vCenter=true&lines=PowerBI%2C+Tableau%2C+R;Linux%2C+Python%2C+SQL" alt="PowerBI, Tableau, R"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%FFCC1D&size=22&center=true&vCenter=true&lines=PowerBI%2C+Tableau%2C+Arduino;Linux%2C+Python%2C+SQL" alt="PowerBI, Tableau, Arduino"></h1>
 
 ![github gif](https://user-images.githubusercontent.com/69740889/152499334-f5d036e9-e0be-46c1-83ee-fe3f1cc8ad70.gif)
 
@@ -36,7 +36,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/45/000000/external-r-data-science-becris-flat-becris.png"/> </a>
+ </a>
 
 <br />
 
