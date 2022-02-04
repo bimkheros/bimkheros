@@ -1,8 +1,9 @@
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%FFCC1D&size=22&center=true&vCenter=true&lines=PowerBI%2C+Tableau%2C+R;Linux%2C+Python%2C+SQL" alt="PowerBI, Tableau, R"></h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bim</h1>
 <h3 align="center"> PUOKXFSS WHGXS KWHNIR CEE </h3>
-
+ 
 <br />
 
 ## ABOUT ME
