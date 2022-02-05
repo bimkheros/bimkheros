@@ -9,20 +9,21 @@
 
 ## ABOUT ME
 
-+ Current Part-time work: `Search Engine Evaluator` 
-+ Currently learning: `Data Science`
-+ Email: `bimkban14@gmail.com`
-+ Fun fact: `I close my eyes when I sleep`
-+ Code: `puokxfss whgxs kwhnir cee` 
++ `Current Part-time work:` Search Engine Evaluator at [Appen](https://appen.com/)
++ `Currently learning:` Data Science
++ `Email:` bimkban14@gmail.com
++ `Fun fact:` I close my eyes when I sleep
++ `Code:` puokxfss whgxs kwhnir cee
 
 <br />
 
 ## GOAL
 
-+ Finish the Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
-+ Develop an App to Monetize
-+ Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)
-+ ~~Invest on Crypto~~
++ [ ] Finish the Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
++ [ ] Google IT Automation Python Specialization
++ [ ] Decentralized Finance
++ [ ] Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)
++ [x] Invest on Crypto
 
 <br />
 
