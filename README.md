@@ -23,7 +23,7 @@
 + [ ] Google IT Automation Python Specialization
 + [ ] Decentralized Finance
 + [ ] Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)
-+ [x] Invest on Crypto
++ [x] ~~Invest on Crypto~~
 
 <br />
 
