@@ -25,11 +25,13 @@
    - [ ] Decentralized Finance
 
 2. [ ] Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)
-3. [x] ~~Invest on Crypto~~
+3. [ ] Invest on Crypto:
+   - [x] ~~Start to buy ETH~~
+   - [ ] Hodl for 10+ years
 
 <br />
 
-## LANGUAGES:
+## LANGUAGES
 
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -42,7 +44,7 @@
 
 <br />
 
-## TOOLS:
+## TOOLS
 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> </a>
 <a href="https://visualstudio.microsoft.com/downloads/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a>
@@ -63,8 +65,7 @@
     </a>
 </p>
 
-
-## My Github Stats
+## My Github Stats:
 
   <br/>
     <a href="https://github.com/bimkheros/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimkheros&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -72,7 +73,6 @@
   <br/>
 
 Note: `Languages = Metrics ≠ Experience or Skill`
-
 
 <br/>
 <br/>
