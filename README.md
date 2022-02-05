@@ -19,11 +19,13 @@
 
 ## GOAL
 
-+ [ ] Finish the Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
-+ [ ] Google IT Automation Python Specialization
-+ [ ] Decentralized Finance
-+ [ ] Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)
-+ [x] ~~Invest on Crypto~~
+1. [ ] Finish the:
+   - [ ] Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
+   - [ ] Google IT Automation Python Specialization
+   - [ ] Decentralized Finance
+
+2. [ ] Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)
+3. [x] ~~Invest on Crypto~~
 
 <br />
 
