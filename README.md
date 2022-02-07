@@ -24,7 +24,9 @@
    - [ ] Google IT Automation Python Specialization
    - [ ] Decentralized Finance
 
-2. [ ] ***Build a [Data Science Portfolio](https://www.youtube.com/watch?v=QmkXG_uGHrM&t=64s)***
+2. [ ] ***Build a Data Science Portfolio***
+   - [ ] Python based projects
+   - [ ] Machine learning and Artificial Intelligence
 3. [ ] ***Invest on Crypto:***
    - [x] ~~Start to buy ETH~~
    - [ ] Hodl for 10+ years
