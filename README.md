@@ -3,7 +3,7 @@
 ![github gif](https://user-images.githubusercontent.com/69740889/152499334-f5d036e9-e0be-46c1-83ee-fe3f1cc8ad70.gif)
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bim</h1>
-<h3 align="center"> --- </h3>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%F4D03F&size=22&center=true&vCenter=true&lines=2022+Year+Text:;Psalm+34:+10" alt="2022, Year, Text:"></h1>
  
 <br />
 
