@@ -13,23 +13,23 @@
 + `Currently learning:` Data Science
 + `Email:` bimkban14@gmail.com
 + `Fun fact:` I close my eyes when I sleep
-+ `Code:` puokxfss whgxs kwhnir cee
++ `Key:` PUOKXFSS WHGXS KWHNIR CEE
 
 <br />
 
 ## GOALS
 
-1. [ ] ***Finish the:***
-   - [ ] Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
-   - [ ] Google IT Automation Python Specialization
-   - [ ] Decentralized Finance
++ 1. [ ] ***Finish the:***
+     - [ ] Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
+     - [ ] Google IT Automation Python Specialization
+     - [ ] Decentralized Finance
 
-2. [ ] ***Build a Data Science Portfolio***
-   - [ ] Python based projects
-   - [ ] Machine learning and Artificial Intelligence
-3. [ ] ***Invest on Crypto:***
-   - [x] ~~Start to buy ETH~~
-   - [ ] Hodl for 10+ years
++ 2. [ ] ***Build a Data Science Portfolio***
+     - [ ] Python based projects
+     - [ ] Machine learning and Artificial Intelligence
++ 3. [ ] ***Invest on Crypto:***
+     - [x] ~~Start to buy ETH~~
+     - [ ] Hodl for 10+ years
 
 <br />
 
