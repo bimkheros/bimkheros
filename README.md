@@ -1,4 +1,4 @@
-<h1 align=left><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%FFCC1D&size=22&left=true&vleft=true&lines=Power+BI%2C+Tableau%2C+Arduino;Linux%2C+Python%2C+SQL" alt="PowerBI, Tableau, Arduino"></h1>
+<h1 align=left><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%FFCC1D&size=22&left=true&vleft=true&lines=Power+BI%2C+Tableau%2C+Arduino;Linux%2C+Python%2C+SQL+and+blockchain" alt="PowerBI, Tableau, Arduino"></h1>
 
 ![github gif](https://user-images.githubusercontent.com/69740889/152499334-f5d036e9-e0be-46c1-83ee-fe3f1cc8ad70.gif)
 
@@ -7,7 +7,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-## ABOUT ME
+## about me
 
 + `Current Part-time work:` Search Engine Evaluator at [Appen](https://appen.com/)
 + `Currently learning:` Data Science
@@ -15,7 +15,7 @@
 + `Fun fact:` I close my eyes when I sleep
 + `Key:` PUOKXFSS WHGXS KWHNIR CEE
 
-## GOALS
+## goals
 
 +   *`Finish the:`*
      - [ ] Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
@@ -28,34 +28,34 @@
 +   *`Invest on Crypto:`*
      - [x] ~~Start to buy ETH~~
      - [x] ~~Start to buy ADA~~
-     - [ ] Hodl + yield for 10+ years
+     - [ ] Hodl + *yield* for 10+ years
 
 <br />
 
-## LANGUAGES
+## languages
 
-<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
+<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/c-plus-plus-logo.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/34/000000/python--v1.png"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/34/000000/javascript--v1.png"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/html-5--v1.png"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/css3.png"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/dart.png"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/kotlin.png"/> </a>
  </a>
 
 <br />
 
-## TOOLS
+## tools
 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> </a>
-<a href="https://visualstudio.microsoft.com/downloads/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a>
-<a href="https://visualstudio.microsoft.com/downloads/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/> </a>
-<a href="https://flutter.dev/docs/get-started/install" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-<a href="https://www.jetbrains.com/pycharm/download/#section=windows" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/arduino.png"/> </a>
+<a href="https://visualstudio.microsoft.com/downloads/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/visual-studio-code-2019.png"/> </a>
+<a href="https://visualstudio.microsoft.com/downloads/" target="_blank"> <img src="https://img.icons8.com/fluency/34/000000/visual-studio-2019.png"/> </a>
+<a href="https://flutter.dev/docs/get-started/install" target="_blank"> <img src="https://img.icons8.com/fluency/34/000000/flutter.png"/> </a>
+<a href="https://www.jetbrains.com/pycharm/download/#section=windows" target="_blank"> <img src="https://img.icons8.com/color/34/000000/pycharm.png"/> </a>
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/34/000000/android-studio--v2.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/git.png"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/firebase.png"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/power-bi.png"/> </a>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
@@ -66,7 +66,7 @@
     </a>
 </p>
 
-## My Github Stats:
+## github stats
 
   <br/>
     <a href="https://github.com/bimkheros/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimkheros&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -83,18 +83,21 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 <br/>
 <br/>
 
-## Connect with me:
+## connect with me
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/bimkherosbandilla/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/BimKheros"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://web.facebook.com/hi.imbim/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-messenger--v2.png"/></a> 
-<a href = "https://www.twitch.tv/adapt_or"> <img src="https://img.icons8.com/fluency/48/000000/twitch.png"/></a>
-<a href = "https://www.reddit.com/user/adaptor1001"> <img src="https://img.icons8.com/color/48/000000/reddit.png"/></a>
-<a href = "https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr?si=de02eb000bf64913"> <img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
+<a href = "https://www.linkedin.com/in/bimkherosbandilla/"> <img src="https://img.icons8.com/fluency/34/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/BimKheros"> <img src="https://img.icons8.com/fluency/34/000000/twitter.png"/></a>
+<a href = "https://web.facebook.com/hi.imbim/"> <img src="https://img.icons8.com/fluency/34/000000/facebook-new.png"/></a> 
+<a href = "https://www.twitch.tv/adapt_or"> <img src="https://img.icons8.com/color/34/000000/twitch--v1.png"/></a>
+<a href = "https://www.reddit.com/user/adaptor1001"> <img src="https://img.icons8.com/color/34/000000/reddit.png"/></a>
+<a href = "https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr?si=de02eb000bf64913"> <img src="https://img.icons8.com/fluency/34/000000/spotify.png"/></a>
     
 <br/>    
     
-## Listening on Spotify:
+## listening on spotify
   
 [![Spotify](https://spotify-github-integration.vercel.app/api/spotify)](https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr)
+     
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+`created by:` adaptor | 2022
