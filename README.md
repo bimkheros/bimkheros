@@ -30,8 +30,6 @@
      - [x] ~~Start to buy ADA~~
      - [ ] Hodl + *yield* for 10+ years
 
-<br />
-
 ## languages
 
 <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/c-plus-plus-logo.png"/> </a>
@@ -42,8 +40,6 @@
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/dart.png"/> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/kotlin.png"/> </a>
  </a>
-
-<br />
 
 ## tools
 
@@ -66,10 +62,8 @@
     </a>
 </p>
 
-## github stats
-
   <br/>
-    <a href="https://github.com/bimkheros/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimkheros&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/bimkheros/github-readme-stats"><img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=bimkheros&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/bimkheros/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimkheros&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
@@ -78,7 +72,7 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 <br/>
 <br/>
 
-<a href="https://github.com/bimkheros/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bimkheros&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/bimkheros/github-readme-activity-graph"><img alt="My activity graph" src="https://activity-graph.herokuapp.com/graph?username=bimkheros&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -91,9 +85,7 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 <a href = "https://web.facebook.com/hi.imbim/"> <img src="https://img.icons8.com/fluency/34/000000/facebook-new.png"/></a> 
 <a href = "https://www.twitch.tv/adapt_or"> <img src="https://img.icons8.com/color/34/000000/twitch--v1.png"/></a>
 <a href = "https://www.reddit.com/user/adaptor1001"> <img src="https://img.icons8.com/color/34/000000/reddit.png"/></a>
-<a href = "https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr?si=de02eb000bf64913"> <img src="https://img.icons8.com/fluency/34/000000/spotify.png"/></a>
-    
-<br/>    
+<a href = "https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr?si=de02eb000bf64913"> <img src="https://img.icons8.com/fluency/34/000000/spotify.png"/></a>   
     
 ## listening on spotify
   
