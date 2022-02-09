@@ -27,7 +27,7 @@
      - [ ] Machine learning and Artificial Intelligence
 +   *`Invest on Crypto:`*
      - [x] ~~Start to buy ETH~~
-     - [x] Start to buy ADA
+     - [x] ~~Start to buy ADA~~
      - [ ] Hodl + yield for 10+ years
 
 <br />
