@@ -91,4 +91,4 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 [![Spotify](https://spotify-github-integration.vercel.app/api/spotify)](https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr)
      
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-`created by:` adaptor | 2022
+`created by:` adaptor | 2022 ![](https://komarev.com/ghpvc/?bimkheros&color=yellow)
