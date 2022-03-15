@@ -28,6 +28,7 @@
 +   *`Invest on Crypto:`*
      - [x] ~~Start to buy ETH~~
      - [x] ~~Start to buy ADA~~
+     - [ ] [x] Start to buy SOL
      - [ ] Hodl + *yield* for 10+ years
 
 ## languages
