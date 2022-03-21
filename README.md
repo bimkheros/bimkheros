@@ -29,6 +29,7 @@
      - [x] ~~Start to buy ETH~~
      - [x] ~~Start to buy ADA~~
      - [ ] Start to buy SOL
+     - [ ] Start to buy AVAX
      - [ ] Hodl + *yield* for 10+ years
 
 ## languages
