@@ -30,6 +30,7 @@
      - [x] ~~Start to buy ETH~~
      - [x] ~~Start to buy ADA~~
      - [x] ~~Start to buy SOL~~
+     - [ ] Start to buy LUNA
      - [ ] Hodl + *yield* for 10+ years
 
 ## languages
