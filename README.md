@@ -21,7 +21,7 @@
      - [ ] Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
      - [ ] Google IT Automation Python Specialization
      - [ ] Decentralized Finance
-     - [ ] Learn developing smart contracts
+     - [ ] Smart Contracts Fundamentals
 
 +   *`Build a Data Science Portfolio:`*
      - [ ] Python based projects
@@ -31,6 +31,7 @@
      - [x] ~~Start to buy ADA~~
      - [x] ~~Start to buy SOL~~
      - [ ] Start to buy LUNA
+     - [ ] Start to buy DOT
      - [ ] Hodl + *yield* for 10+ years
 
 ## languages
