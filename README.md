@@ -27,11 +27,11 @@
      - [ ] Python based projects
      - [ ] Machine learning and Artificial Intelligence
 +   *`Invest on Crypto:`*
-     - [x] ~~Start to buy ETH~~
-     - [x] ~~Start to buy ADA~~
-     - [x] ~~Start to buy SOL~~
-     - [ ] Start to buy LUNA
-     - [ ] Start to buy DOT
+     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/ethereum">Ethereum </a>
+     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/cardano">Cardano </a>
+     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/solana">Solana </a>
+     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/terra-luna">Luna </a>
+     - [ ] Start to buy <a href="https://www.binance.com/en/price/polkadot-new">Polkadot </a>
      - [ ] Hodl + *yield* for 10+ years
 
 ## languages
