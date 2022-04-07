@@ -33,7 +33,7 @@
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/solana">Solana </a>
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/terra-luna">Luna </a>
      - [ ] Start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
-     - [ ] Hodl + *yield* for 10+ years
+     - [ ] Hodl + *yield* for 8+ years
 
 ## languages
 
