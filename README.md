@@ -10,7 +10,7 @@
 ## about me
 
 + `Current Part-time work:` Search Engine Evaluator at [Appen](https://appen.com/)
-+ `Currently learning:` Data Science
++ `Currently learning:` Data Science + Blockchain technology
 + `Email:` bimkban14@gmail.com
 + `Fun fact:` I close my eyes when I sleep
 + `Key:` PUOKXFSS WHGXS KWHNIR CEE
@@ -33,6 +33,7 @@
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/solana">Solana </a>
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/terra-luna">Luna </a>
      - [ ] Start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
+     - [ ] Start to buy <a href="https://www.binance.com/en/price/anchor-protocol">ANC </a>
      - [ ] Hodl + *yield* for 8+ years
 
 ## languages
