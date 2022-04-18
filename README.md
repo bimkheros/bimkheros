@@ -21,7 +21,7 @@
      - [ ] Data Analyst Pathway under DOST-PCIEERD: [SPARTA](https://coursebank.ph/sparta/) Project before November 2022
      - [ ] Google IT Automation Python Specialization
      - [ ] Decentralized Finance
-     - [ ] Smart Contracts Fundamentals
+     - [ ] Smart Contract Fundamentals
 
 +   *`Build a Data Science Portfolio:`*
      - [ ] Python based projects
