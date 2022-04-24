@@ -33,7 +33,7 @@
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/solana">SOL </a>
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/terra-luna">LUNA </a>
      - [ ] Start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
-     - [ ] Start to buy <a href="https://www.binance.com/en/price/anchor-protocol">ANC </a>
+     - [ ] Start to buy <a href="https://www.binance.com/en/price/bitrise-token">BRISE</a>
      - [ ] Hodl + *yield* for 8+ years
 
 ## languages
