@@ -30,7 +30,6 @@
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/ethereum">ETH </a>
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/cardano">ADA </a>
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/solana">SOL </a>
-     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/terra-luna">LUNA </a>
      - [ ] Start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
      - [ ] Hodl + *yield* for 8+ years
 
