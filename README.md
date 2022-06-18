@@ -28,9 +28,10 @@
 +   *`Invest on Crypto:`*
      - [ ] Start to buy <a href="https://www.binance.com/en/trade/BTC_USDT">BTC </a>
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/ethereum">ETH </a>
-     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/cardano">ADA </a>
+     - [ ] Start to buy <a href="https://www.binance.com/en-GB/price/avalanche">AVAX </a>
      - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/solana">SOL </a>
      - [ ] Start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
+     - [ ] Start to buy <a href="https://www.binance.com/en-GB/price/Near-protocol">NEAR </a>
      - [ ] Hodl + *yield* for 8+ years
 
 ## languages
