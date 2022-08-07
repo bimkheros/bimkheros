@@ -21,6 +21,7 @@
      - [ ] Google IT Automation Python Specialization
      - [ ] Decentralized Finance
      - [ ] Smart Contract Fundamentals
+     - [ ] Refocus Data Analyst Course
 
 +   *`Build a Data Science Portfolio:`*
      - [ ] Python based projects
