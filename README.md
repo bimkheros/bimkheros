@@ -1,4 +1,4 @@
-<h1 align=left><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%FFCC1D&size=22&left=true&vleft=true&lines=Power+BI%2C+Tableau%2C+Arduino;Linux%2C+Python%2C+SQL+and+blockchain" alt="PowerBI, Tableau, Arduino"></h1>
+<h1 align=left><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%5b1dff&size=22&left=true&vleft=true&lines=Power+BI%2C+Tableau%2C+Arduino;Linux%2C+Python%2C+SQL+and+blockchain" alt="PowerBI, Tableau, Arduino"></h1>
 
 ![github gif](https://user-images.githubusercontent.com/69740889/152499334-f5d036e9-e0be-46c1-83ee-fe3f1cc8ad70.gif)
 
