@@ -9,31 +9,31 @@
 
 ## about me
 
-+ `Current Part-time work:` Search Engine Evaluator at [Appen](https://appen.com/)
-+ `Currently learning:` Data Science + Blockchain technology
-+ `Email:` bimkban14@gmail.com
-+ `Fun fact:` I close my eyes when I sleep
-+ `Key:` PUOKXFSS WHGXS KWHNIR CEE
++ `current work:` search engine evaluator at [appen](https://appen.com/) ; social media evaluator at [telus ai](https://www.telusinternational.com/)
++ `currently learning:` data science + blockchain technology
++ `email:` bimkban14@gmail.com
++ `fun fact:` i close my eyes when i sleep
++ `key:` PUOKXFSS WHGXS KWHNIR CEE
 
 ## goals
 
-+   *`Finish the:`*
-     - [ ] Google IT Automation Python Specialization
-     - [ ] Decentralized Finance
-     - [ ] Smart Contract Fundamentals
-     - [ ] Refocus Data Analyst Course
++   *`finish the:`*
+     - [ ] google IT automation python specialization
+     - [ ] decentralized finance
+     - [ ] smart contract fundamentals
+     - [ ] refocus data analyst course
 
-+   *`Build a Data Science Portfolio:`*
-     - [ ] Python based projects
-     - [ ] Machine learning and Artificial Intelligence
-+   *`Invest on Crypto:`*
-     - [ ] Start to buy <a href="https://www.binance.com/en/trade/BTC_USDT">BTC </a>
-     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/ethereum">ETH </a>
-     - [ ] Start to buy <a href="https://www.binance.com/en-GB/price/avalanche">AVAX </a>
-     - [x] ~~Start to buy~~ <a href="https://www.binance.com/en/price/solana">SOL </a>
-     - [ ] Start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
-     - [ ] Start to buy <a href="https://www.binance.com/en-GB/price/Near-protocol">NEAR </a>
-     - [ ] Hodl + *yield* for 8+ years
++   *`build a data science portfolio:`*
+     - [ ] python based projects
+     - [ ] machine learning and artificial intelligence
++   *`invest in crypto:`*
+     - [ ] start to buy <a href="https://www.binance.com/en/trade/BTC_USDT">BTC </a>
+     - [x] ~~start to buy~~ <a href="https://www.binance.com/en/price/ethereum">ETH </a>
+     - [ ] start to buy <a href="https://www.binance.com/en-GB/price/avalanche">AVAX </a>
+     - [x] ~~start to buy~~ <a href="https://www.binance.com/en/price/solana">SOL </a>
+     - [ ] start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
+     - [ ] start to buy <a href="https://www.binance.com/en-GB/price/Near-protocol">NEAR </a>
+     - [ ] hodl + *yield* for 8+ years
 
 ## languages
 
