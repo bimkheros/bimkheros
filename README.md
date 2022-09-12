@@ -26,6 +26,8 @@
 +   *`build a data science portfolio:`*
      - [ ] python based projects
      - [ ] machine learning and artificial intelligence
+     - [ ] SQL project
+     - [ ] power BI project
 +   *`invest in crypto:`*
      - [ ] start to buy <a href="https://www.binance.com/en/trade/BTC_USDT">BTC </a>
      - [x] ~~start to buy~~ <a href="https://www.binance.com/en/price/ethereum">ETH </a>
