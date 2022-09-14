@@ -14,6 +14,7 @@
 + `email:` bimkban14@gmail.com
 + `fun fact:` i close my eyes when i sleep
 + `key:` PUOKXFSS WHGXS KWHNIR CEE
++ `hobby:` rubik's cube ; main : [gan 356 air](https://www.gancube.com/gan356air)
 
 ## goals
 
