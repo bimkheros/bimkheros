@@ -11,7 +11,7 @@
 
 + `current work:` search engine evaluator at [appen](https://appen.com/) ; social media evaluator at [telus ai](https://www.telusinternational.com/)
 + `currently learning:` data science + blockchain technology
-+ `email:` bimkban14@gmail.com
++ `email:` bimkheros@gmail.com
 + `fun fact:` i close my eyes when i sleep
 + `key:` PUOKXFSS WHGXS KWHNIR CEE
 + `hobby:` rubik's cube ; main : [gan 356 air](https://www.gancube.com/gan356air)
@@ -22,7 +22,7 @@
      - [ ] google IT automation python specialization
      - [ ] decentralized finance
      - [ ] smart contract fundamentals
-     - [ ] refocus data analyst course
+     - [ ] refocus data analytics course
 
 +   *`build a data science portfolio:`*
      - [ ] python based projects
