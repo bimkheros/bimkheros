@@ -84,10 +84,7 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/bimkherosbandilla/"> <img src="https://img.icons8.com/fluency/34/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/BimKheros"> <img src="https://img.icons8.com/fluency/34/000000/twitter.png"/></a>
-<a href = "https://web.facebook.com/hi.imbim/"> <img src="https://img.icons8.com/fluency/34/000000/facebook-new.png"/></a> 
 <a href = "https://www.twitch.tv/adapt_or"> <img src="https://img.icons8.com/color/34/000000/twitch--v1.png"/></a>
-<a href = "https://www.reddit.com/user/adaptor1001"> <img src="https://img.icons8.com/color/34/000000/reddit.png"/></a>
 <a href = "https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr?si=de02eb000bf64913"> <img src="https://img.icons8.com/fluency/34/000000/spotify.png"/></a>   
     
 ## listening on spotify
