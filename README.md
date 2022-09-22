@@ -18,6 +18,10 @@
 
 ## goals
 
+<details>
+<summary></summary>
+<br>
+
 +   *`finish the:`*
      - [ ] google IT automation python specialization
      - [ ] decentralized finance
@@ -37,6 +41,7 @@
      - [ ] start to buy <a href="https://www.binance.com/en/price/bnb">BNB </a>
      - [ ] start to buy <a href="https://www.binance.com/en-GB/price/Near-protocol">NEAR </a>
      - [ ] hodl + *yield* for 8+ years
+</details>
 
 ## languages
 
