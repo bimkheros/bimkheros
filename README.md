@@ -5,7 +5,7 @@
 <h1 align="left">hello i'm bim | a learner</h1>
 <h1 align=left><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%F4D03F&size=22&left=true&vCenter=true&lines=2023+Year+Text:;Psalm+119:160" alt="2023, Year, Text:"></h1>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - 
 
 ## about me
 
@@ -61,8 +61,7 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/firebase.png"/> </a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/power-bi.png"/> </a>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - 
-
+- - - 
 <br>
 <div align="center">
 
@@ -70,9 +69,8 @@
 
 </div>
 <br>
-
-- - - - - - - - - - - - - - - - - - - - - - - - - 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
@@ -93,7 +91,7 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 
 <a href="https://github.com/bimkheros/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bimkheros&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - 
 
 ## connect with me
 <p align="left">
@@ -106,6 +104,6 @@ Note: `Languages = Metrics ≠ Experience or Skill`
   
 [![Spotify](https://spotify-github-integration.vercel.app/api/spotify)](https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr)
      
-- - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - 
 
 ![counter](https://en5svq67j69pakl.m.pipedream.net) 
