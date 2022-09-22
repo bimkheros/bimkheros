@@ -93,7 +93,7 @@ Note: `Languages = Metrics ≠ Experience or Skill`
 
 <a href="https://github.com/bimkheros/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bimkheros&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## connect with me
 <p align="left">
@@ -106,5 +106,6 @@ Note: `Languages = Metrics ≠ Experience or Skill`
   
 [![Spotify](https://spotify-github-integration.vercel.app/api/spotify)](https://open.spotify.com/user/y782ckd6xm97f96vmu6lkkhcr)
      
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+
 ![counter](https://en5svq67j69pakl.m.pipedream.net) 
