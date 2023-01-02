@@ -107,8 +107,6 @@ Note: `Languages = Metrics ≠ Experience or Skill`
     
 ## listening on spotify
 
-<details>
-<summary></summary>
 <br>
 <div align="left">
 
