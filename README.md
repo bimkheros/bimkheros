@@ -30,7 +30,6 @@
 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/arduino.png"/> </a>
 <a href="https://visualstudio.microsoft.com/downloads/" target="_blank"> <img src="https://img.icons8.com/color/34/000000/visual-studio-code-2019.png"/> </a>
-<a href="https://visualstudio.microsoft.com/downloads/" target="_blank"> <img src="https://img.icons8.com/fluency/34/000000/visual-studio-2019.png"/> </a>
 <a href="https://flutter.dev/docs/get-started/install" target="_blank"> <img src="https://img.icons8.com/fluency/34/000000/flutter.png"/> </a>
 <a href="https://www.jetbrains.com/pycharm/download/#section=windows" target="_blank"> <img src="https://img.icons8.com/color/34/000000/pycharm.png"/> </a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/34/000000/android-studio--v2.png"/></a>
