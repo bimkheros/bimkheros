@@ -86,7 +86,7 @@
 
 <br/>
     <a href="https://github.com/bimkheros/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimkheros&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/bimkheros/github-readme-stats"><img alt="Bim Kheros' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/bimkheros/github-readme-stats"><img alt="Bim Kheros' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimkheros&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 
