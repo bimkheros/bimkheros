@@ -12,7 +12,7 @@
 + `email:` bimkheros@gmail.com
 + `fun fact:` i close my eyes when i sleep
 + `hobby:` rubik's cube ; main : [gan 356 air](https://www.gancube.com/gan356air)
-+ `mbti:` [infp-a](https://www.16personalities.com/infp-personality) / mediator
++ `mbti:` [infj-t](https://www.16personalities.com/profiles/8cf160c466c15) / advocate
 + `key:` puokxfss whgxs kwhnir cee
 
 ## languages
