@@ -2,8 +2,8 @@
 
 ![github gif](https://user-images.githubusercontent.com/69740889/152499334-f5d036e9-e0be-46c1-83ee-fe3f1cc8ad70.gif)
 
-<h1 align="left">hello i'm bim | a learner</h1>
-<h1 align=left><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%F4D03F&size=22&left=true&vCenter=true&lines=2024+Year+Text:;Psalm+56:3,+NWT" alt="2024, Year, Text:"></h1>
+<h1 align="left">sup, i'm bim | a nomad</h1>
+<h1 align=left><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%F4D03F&size=22&left=true&vCenter=true&lines=2025+yeartext:;psalm+96:8,+nwt" alt="2024, Year, Text:"></h1>
 
 ## about me
 
